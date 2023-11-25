@@ -1,5 +1,8 @@
 """
 Este script extrai detalhes de filmes populares da IMDb.
+
+
+
 Date: November 18, 2023
 """
 import time
